@@ -1,0 +1,466 @@
+#cover{
+    background-color: black;
+    width: 100vw;
+    height: 5.5vh;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+#title{
+    text-align: center;
+    color: white;
+}
+.anton-regular {
+    font-family: "Anton", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0;
+  }
+span{
+
+    font-size: 20px;
+    font-weight: bold;
+}
+.home{
+    top: 95;
+    left: 120;
+    color: rgb(47, 47, 47);
+    position: absolute;
+    font-family: "Sour Gummy", serif;
+}
+.shop{
+    top: 95;
+    left: 220;
+    color: rgb(47, 47, 47);
+    position: absolute;
+    font-family: "Sour Gummy", serif;
+}
+.about_us{
+    top: 95;
+    left: 320;
+    color: rgb(47, 47, 47);
+    position: absolute;
+    font-family: "Sour Gummy", serif;
+
+}
+.logo{
+    top: 45;
+    left: 710;
+    position: absolute;
+}
+#underline{
+    text-decoration: underline;
+}
+#boldunderline{
+    text-decoration: underline;
+    color: black;
+}
+h1{
+    top: 120;
+    left: 675;
+    position: absolute;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 40px;
+    font-weight: 200;
+}
+span:hover{
+    color: black;
+    font-size: 22px;
+}
+image{
+    margin: 50;
+}
+.JoaoFelix{
+    left: 200;
+    top: 160;
+    position: absolute;
+    text-align: left;
+    width: 20vw;
+}
+.first{
+    width: 50vw;
+    text-align: right;
+    position: absolute;
+    left: 700;
+    top: 250;
+}
+#first{
+    font-size: 40px;
+    text-align: center;
+}
+button{
+    color: gray;
+    left: 300;
+    top: 350;
+    height: 75px;
+    width: 150px;
+    position: absolute;
+    border-radius: 50%;
+}
+button:hover{
+    color: black;
+    font-weight: bold;
+}
+.edu{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-weight: 700;
+}
+#row1{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 220;
+    left: 140;
+    position: absolute;
+}
+
+#row2{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 220;
+    left: 455;
+    position: absolute;
+}
+#row3{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 220;
+    left: 770;
+    position: absolute;
+}
+#row4{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 220;
+    left: 1085;
+    position: absolute;
+}
+#row5{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 550;
+    left: 140;
+    position: absolute;
+}
+#row6{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 550;
+    left: 455;
+    position: absolute;
+}
+#row7{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 550;
+    left: 770;
+    position: absolute;
+}
+#row8{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 550;
+    left: 1085;
+    position: absolute;
+}
+#row9{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 880;
+    left: 140;
+    position: absolute;
+}
+#row10{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 880;
+    left: 455;
+    position: absolute;
+}
+#row11{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 880;
+    left: 770;
+    position: absolute;
+}
+#row12{
+    width: 300px;
+    height: 300px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 880;
+    left: 1085;
+    position: absolute;
+}
+#merc16{
+    left: 42;
+    top: 5;
+    position: absolute;
+}
+#bigbox{
+    width: 600px;
+    height: 600px;
+    border-radius: 15%;
+    border : 1px solid gray;
+    top: 165;
+    left: 80;
+    position: absolute;
+}
+#merc16p2{
+    left: 85;
+    top: 30;
+    position: absolute;
+}
+#h1mercurial{
+    left: 750;
+    top: 160;
+    position: absolute;
+    font-size: 60px;
+}
+
+.roboto{
+    font-family: "Roboto Condensed", sans-serif;
+
+  }
+#mercurial16price{
+    left: 750;
+    top: 250;
+    position: absolute;
+    font-weight: 100;
+}
+#merc15pink{
+    left: 42;
+    top: 30;
+    position: absolute;
+    
+
+}
+#merc15p2{
+    top: 85;
+    left: 85;
+    position: absolute;
+}
+#minishinguard{
+    position: absolute;
+    top: 40;
+    left: 40;
+}
+#minishinguardp2{
+    position: absolute;
+    top: 85;
+    left: 85;
+}
+#neymar{
+    top: 40;
+    left: 40;
+    position: absolute;
+}
+#neymarp2{
+    position: absolute;
+    top: 85;
+    left: 85;
+}
+#uclball{
+    position: absolute;
+    top: 40;
+    left: 40;
+}
+#uclballp2{
+    position: absolute;
+    top: 85;
+    left: 85;
+}
+#gripsocks{
+    top: 40;
+    left: 40;
+    position: absolute;
+}
+#precut{
+    top: 40;
+    left: 40;
+    position: absolute;
+}
+#tape{
+    top: 40;
+    left: 40;
+    position: absolute;
+}
+#jersey{
+    top: 40;
+    left: 40;
+    position: absolute;
+}
+#japan{
+    top: 40;
+    left: 40;
+    position: absolute;
+}
+#barca{
+    top: 40;
+    left: 40;
+    position: absolute;
+}
+#acmilan{
+    top: 40;
+    left: 40;
+    position: absolute;
+}
+  
+#quantity {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    width: 180px;
+    height: 65px;
+    border: 5px solid gray;
+    position: absolute;
+    top: 350px;
+    left: 750px;
+    overflow: hidden;
+  }
+  
+#minus, #plus {
+    background-color: white;
+    color: black;
+    width: 60px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+#one {
+    background-color: white;
+    width: 60px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+.input{
+    width: 80px;
+    height: 65px;
+    text-align: center;
+    font-size: 25px;
+    margin: 10 35px;
+}
+#addtobag{
+    background-color: white;
+    border: 5px solid black;
+    width: 400px;
+    height: 50px;
+    top: 450;
+    left: 745;
+    position: absolute;
+    align-items: center;
+    text-align: center;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    color: black;
+}
+#bag{
+    background-color: none;
+    color: black;
+    border: none;
+}
+/* #minus{
+    font-size: 10px;
+} */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff;
+}
+
+.contact-container {
+    text-align: center;
+    width: 400px;
+}
+
+.contact-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.contact-container p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    height: 40px;
+}
+
+textarea {
+    resize: none;
+    height: 80px;
+}
+
+
+
+#contact{
+    left: 690;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+  
